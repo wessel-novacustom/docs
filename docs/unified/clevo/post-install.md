@@ -47,7 +47,7 @@ suspend on Gen 12 laptops. To install the ubuntu-oem kernel, run the following
 command:
 
 ```bash
-sudo apt install linux-oem-22.04a
+sudo apt install linux-oem-22.04b
 ```
 
 and reboot to use the new kernel.
